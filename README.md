@@ -36,6 +36,7 @@ You can find some keyboard specific projects under `converter` and `keyboard` di
 ### converter
 * [ps2_usb](converter/ps2_usb/)             - [PS/2 keyboard to USB][GH_ps2]
 * [adb_usb](converter/adb_usb/)             - [ADB keyboard to USB][GH_adb]
+* [atari_usb](converter/atari_usb/)         - Atari ST keyboard to USB
 * [m0110_usb](converter/m0110_usb)          - [Macintosh 128K/512K/Plus keyboard to USB][GH_m0110]
 * [terminal_usb](converter/terminal_usb/)   - [IBM Model M terminal keyboard(PS/2 scancode set3) to USB][GH_terminal]
 * [news_usb](converter/news_usb/)           - [Sony NEWS keyboard to USB][GH_news]
